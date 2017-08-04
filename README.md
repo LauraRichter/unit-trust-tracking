@@ -1,2 +1,3 @@
 # unit-trust-tracking
-Unit Trush Tracking
+
+Project to automatically download unit trust prices, do some very basic analysis of the prices, plot the prices and send the plots via email.
