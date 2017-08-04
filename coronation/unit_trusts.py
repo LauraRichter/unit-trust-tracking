@@ -258,7 +258,7 @@ def main():
     else:
         ''
 
-    to = 'llrichter@gmail.com'
+    to = 'email.address@gmail.com'
     sender = 'artisanaldata@gmail.com'
     subject = "{} - Coronation Unit Trust Prices {}".format(end_date, should_buy)
     msgHtml = "Hi Laura<br/>Here are your Coronation fund prices."
