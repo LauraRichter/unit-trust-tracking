@@ -256,9 +256,9 @@ def main():
     if buy:
         should_buy = ' - Time to buy?'
     else:
-        ''
+        should_buy = ''
 
-    to = 'email.address@gmail.com'
+    to = 'llrichter@gmail.com'
     sender = 'artisanaldata@gmail.com'
     subject = "{} - Coronation Unit Trust Prices {}".format(end_date, should_buy)
     msgHtml = "Hi Laura<br/>Here are your Coronation fund prices."
